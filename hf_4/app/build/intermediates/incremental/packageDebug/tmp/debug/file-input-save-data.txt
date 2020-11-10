@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Nov 10 19:03:24 EET 2020
+0.baseType=DIRECTORY
+0.base=E\:\\mentes\\Sapi\\III.ev\\mobileszkozok\\hf_4rosz\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1

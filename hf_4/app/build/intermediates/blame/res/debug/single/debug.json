@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "E:\\mentes\\Sapi\\III.ev\\mobileszkozok\\hf_4rosz\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment1.xml.flat",
+        "source": "E:\\mentes\\Sapi\\III.ev\\mobileszkozok\\hf_4rosz\\app\\src\\main\\res\\layout\\fragment1.xml"
+    },
+    {
+        "merged": "E:\\mentes\\Sapi\\III.ev\\mobileszkozok\\hf_4rosz\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_fragment_code_app.xml.flat",
+        "source": "E:\\mentes\\Sapi\\III.ev\\mobileszkozok\\hf_4rosz\\app\\src\\main\\res\\menu\\activity_fragment_code_app.xml"
+    },
+    {
+        "merged": "E:\\mentes\\Sapi\\III.ev\\mobileszkozok\\hf_4rosz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_chf.png.flat",
+        "source": "E:\\mentes\\Sapi\\III.ev\\mobileszkozok\\hf_4rosz\\app\\src\\main\\res\\drawable-xhdpi\\chf.png"
+    },
+    {
+        "merged": "E:\\mentes\\Sapi\\III.ev\\mobileszkozok\\hf_4rosz\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment2.xml.flat",
+        "source": "E:\\mentes\\Sapi\\III.ev\\mobileszkozok\\hf_4rosz\\app\\src\\main\\res\\layout\\fragment2.xml"
+    },
+    {
+        "merged": "E:\\mentes\\Sapi\\III.ev\\mobileszkozok\\hf_4rosz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_huf.png.flat",
+        "source": "E:\\mentes\\Sapi\\III.ev\\mobileszkozok\\hf_4rosz\\app\\src\\main\\res\\drawable-xhdpi\\huf.png"
+    },
+    {
+        "merged": "E:\\mentes\\Sapi\\III.ev\\mobileszkozok\\hf_4rosz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_search.png.flat",
+        "source": "E:\\mentes\\Sapi\\III.ev\\mobileszkozok\\hf_4rosz\\app\\src\\main\\res\\drawable-mdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "E:\\mentes\\Sapi\\III.ev\\mobileszkozok\\hf_4rosz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_dkk.png.flat",
+        "source": "E:\\mentes\\Sapi\\III.ev\\mobileszkozok\\hf_4rosz\\app\\src\\main\\res\\drawable-xhdpi\\dkk.png"
+    },
+    {
+        "merged": "E:\\mentes\\Sapi\\III.ev\\mobileszkozok\\hf_4rosz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_search.png.flat",
+        "source": "E:\\mentes\\Sapi\\III.ev\\mobileszkozok\\hf_4rosz\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "E:\\mentes\\Sapi\\III.ev\\mobileszkozok\\hf_4rosz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "E:\\mentes\\Sapi\\III.ev\\mobileszkozok\\hf_4rosz\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\mentes\\Sapi\\III.ev\\mobileszkozok\\hf_4rosz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_gpb.png.flat",
+        "source": "E:\\mentes\\Sapi\\III.ev\\mobileszkozok\\hf_4rosz\\app\\src\\main\\res\\drawable-xhdpi\\gpb.png"
+    },
+    {
+        "merged": "E:\\mentes\\Sapi\\III.ev\\mobileszkozok\\hf_4rosz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\mentes\\Sapi\\III.ev\\mobileszkozok\\hf_4rosz\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\mentes\\Sapi\\III.ev\\mobileszkozok\\hf_4rosz\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_fragment_code_app.xml.flat",
+        "source": "E:\\mentes\\Sapi\\III.ev\\mobileszkozok\\hf_4rosz\\app\\src\\main\\res\\layout\\activity_fragment_code_app.xml"
+    },
+    {
+        "merged": "E:\\mentes\\Sapi\\III.ev\\mobileszkozok\\hf_4rosz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "E:\\mentes\\Sapi\\III.ev\\mobileszkozok\\hf_4rosz\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\mentes\\Sapi\\III.ev\\mobileszkozok\\hf_4rosz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_eu.png.flat",
+        "source": "E:\\mentes\\Sapi\\III.ev\\mobileszkozok\\hf_4rosz\\app\\src\\main\\res\\drawable-xhdpi\\eu.png"
+    },
+    {
+        "merged": "E:\\mentes\\Sapi\\III.ev\\mobileszkozok\\hf_4rosz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "E:\\mentes\\Sapi\\III.ev\\mobileszkozok\\hf_4rosz\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\mentes\\Sapi\\III.ev\\mobileszkozok\\hf_4rosz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_aud.png.flat",
+        "source": "E:\\mentes\\Sapi\\III.ev\\mobileszkozok\\hf_4rosz\\app\\src\\main\\res\\drawable-xhdpi\\aud.png"
+    },
+    {
+        "merged": "E:\\mentes\\Sapi\\III.ev\\mobileszkozok\\hf_4rosz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_search.png.flat",
+        "source": "E:\\mentes\\Sapi\\III.ev\\mobileszkozok\\hf_4rosz\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "E:\\mentes\\Sapi\\III.ev\\mobileszkozok\\hf_4rosz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_cad.png.flat",
+        "source": "E:\\mentes\\Sapi\\III.ev\\mobileszkozok\\hf_4rosz\\app\\src\\main\\res\\drawable-xhdpi\\cad.png"
+    },
+    {
+        "merged": "E:\\mentes\\Sapi\\III.ev\\mobileszkozok\\hf_4rosz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_usa.png.flat",
+        "source": "E:\\mentes\\Sapi\\III.ev\\mobileszkozok\\hf_4rosz\\app\\src\\main\\res\\drawable-xhdpi\\usa.png"
+    }
+]
