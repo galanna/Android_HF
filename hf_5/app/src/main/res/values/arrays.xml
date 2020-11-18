@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="contact_names">
+        <item>Alex</item>
+        <item>Charlie</item>
+        <item>Brooke</item>
+        <item>Piper</item>
+        <item>Skyler</item>
+        <item>Max</item>
+        <item>Toby</item>
+        <item>Terry</item>
+        <item>Bryce</item>
+        <item>Mikko</item>
+    </array>
+
+    <array name="contact_thumbnails">
+        <item>@drawable/cat</item>
+        <item>@drawable/dog</item>
+        <item>@drawable/rabbit</item>
+        <item>@drawable/octopus</item>
+        <item>@drawable/octopus2</item>
+        <item>@drawable/octopus3</item>
+        <item>@drawable/disznyo</item>
+        <item>@drawable/sheep</item>
+        <item>@drawable/horse</item>
+        <item>@drawable/horse</item>
+    </array>
+
+    <array name="contact_numbers">
+        <item>4153708881</item>
+        <item>4153708882</item>
+        <item>4153708883</item>
+        <item>4153708884</item>
+        <item>4153708885</item>
+        <item>4153708886</item>
+        <item>4153708887</item>
+        <item>4153708888</item>
+        <item>4153708889</item>
+        <item>4153708890</item>
+    </array>
+</resources>

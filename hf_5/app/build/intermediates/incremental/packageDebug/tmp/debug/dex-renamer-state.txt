@@ -1,0 +1,7 @@
+#Wed Nov 18 21:20:21 EET 2020
+base.0=E\:\\mentes\\Sapi\\III.ev\\mobileszkozok\\hf5masodikprobalkozas\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=E\:\\mentes\\Sapi\\III.ev\\mobileszkozok\\hf5masodikprobalkozas\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
